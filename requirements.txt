@@ -1,0 +1,26 @@
+# Sismik Analiz Ekibi - Team510
+# Python Bağımlılıkları
+
+# Temel veri işleme
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Görselleştirme
+matplotlib>=3.7.0
+
+# İstatistik ve bilimsel hesaplama
+scipy>=1.10.0
+
+# Excel dosya desteği
+openpyxl>=3.1.0
+xlrd>=2.0.0
+
+# Geliştirme araçları (opsiyonel)
+pytest>=7.3.0
+pytest-cov>=4.0.0
+flake8>=6.0.0
+black>=23.0.0
+
+# Jupyter notebook desteği (opsiyonel)
+jupyter>=1.0.0
+ipykernel>=6.0.0
